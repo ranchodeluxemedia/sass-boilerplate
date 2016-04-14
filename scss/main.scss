@@ -8,11 +8,14 @@
 
 // 2. Vendors
 @import
-  'vendor/normalize';
+  'vendor/normalize',
+  'vendor/animate',
+  'vendor/formhack';
 
 // 3. Base stuff
 @import
   'base/base',
+  'base/grid',
   'base/fonts',
   'base/typography',
   'base/helpers';
